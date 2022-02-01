@@ -1,5 +1,5 @@
 # cs6675-hw1
-View the analysis of this project at 
+View the analysis of this project at https://www.aydenmarshall.com/school/2022/01/25/search-engine.html
 
 # Try it yourself!
 
