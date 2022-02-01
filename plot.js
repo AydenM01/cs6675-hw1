@@ -9,4 +9,6 @@ const plot1 = JSON.parse(plot1_raw);
 const plot2 = JSON.parse(plot2_raw);
 const plot3 = JSON.parse(plot3_raw);
 
-console.log(plot1.x.length)
+plot([plot1]);
+plot([plot2]);
+plot([plot3]);

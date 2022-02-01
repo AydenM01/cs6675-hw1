@@ -18,7 +18,7 @@ recordRoutes.route("/saveDoc").post(function (req, res) {
     uri: req.body.uri,
   };
 
-  dbConnect.collection("web-crawler3").insertOne(newDoc, function (err, result) {
+  dbConnect.collection("web-crawler").insertOne(newDoc, function (err, result) {
     if (err) {
       res.status(400).send("Error saving Doc!");
     } else {
