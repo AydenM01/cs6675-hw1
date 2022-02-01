@@ -1,0 +1,27 @@
+{
+  "name": "cs6675-hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AydenM01/cs6675-hw1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AydenM01/cs6675-hw1/issues"
+  },
+  "homepage": "https://github.com/AydenM01/cs6675-hw1#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "crawler": "^1.3.0",
+    "mongodb": "^4.3.1",
+    "natural": "^5.1.13",
+    "nodeplotlib": "^1.0.0",
+    "unfluff": "^3.2.0"
+  }
+}
